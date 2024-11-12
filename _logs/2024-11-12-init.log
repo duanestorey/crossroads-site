@@ -1,0 +1,8 @@
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-init.log]
+0.0001s - [INFO ] Executing command [INIT] on [2024-11-12] at [02:35:40]
+0.0001s - [INFO ] Initializing your new Crossroads website
+0.0001s - [INFO ]   Writing .gitignore file
+0.0001s - [INFO ]   Writing version information
+0.0002s - [INFO ] Congratulations, your website is ready to go. Run 'php crossroads build' next.
+0.0002s - [INFO ] Finished executing [INIT] command, total time taken 0.000s

@@ -1,9 +1,9 @@
 site:
-  name: 'My Test Site'
+  name: 'Crossroads Static Site Generator'
   url: 'https://mytestsite.com'
-  description: 'This is a test site using the Crossroads SSG'
+  description: 'This is the Crossroads static site generator'
   home_description: 'Crossroads SSG is a state-of-the art static site generator written in PHP'
-  theme: "simple"
+  theme: "crossroads"
   lang: "en"
   charset: "utf-8"
   home: "posts"

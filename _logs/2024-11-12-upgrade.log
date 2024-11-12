@@ -1,0 +1,14 @@
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-upgrade.log]
+0.0001s - [INFO ] Executing command [UPGRADE] on [2024-11-12] at [02:35:43]
+0.3768s - [INFO ]   Your current version is [0.2.2]
+0.3769s - [INFO ]   The latest stable version is [0.2.2]
+0.3770s - [INFO ]   You are running the latest version, no upgrade required
+0.3770s - [INFO ] Finished executing [UPGRADE] command, total time taken 0.377s
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-upgrade.log]
+0.0001s - [INFO ] Executing command [UPGRADE] on [2024-11-12] at [02:37:28]
+0.1056s - [INFO ]   Your current version is [0.2.2]
+0.1056s - [INFO ]   The latest stable version is [0.2.2]
+0.1057s - [INFO ]   You are running the latest version, no upgrade required
+0.1057s - [INFO ] Finished executing [UPGRADE] command, total time taken 0.106s
