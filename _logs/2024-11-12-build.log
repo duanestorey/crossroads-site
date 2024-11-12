@@ -426,3 +426,29 @@
 0.0477s - [INFO ] Total entries processed [2], HTML pages generated [6]
 0.0477s - [INFO ] Your website is now ready to view. You can run 'php crossroads serve' to view it.
 0.0477s - [INFO ] Finished executing [BUILD] command, total time taken 0.047s
+
+0.0003s - [INFO ] Log file active at [_logs/2024-11-12-build.log]
+0.0003s - [INFO ] Executing command [BUILD] on [2024-11-12] at [03:22:24]
+0.0003s - [INFO ] Starting static website build
+0.0003s - [INFO ]   Loading theme [crossroads]
+0.0007s - [WARN ]   Setting not found [theme.parent] in [/Users/duane/Code/personal/sites/crossroads-site/core/src/theme.php:57]
+0.0008s - [INFO ]     Theme successfull loaded
+0.0008s - [INFO ]     Processing asset [crossroads.css]
+0.0147s - [INFO ]     Processing asset [crossroads.min.js]
+0.0172s - [INFO ]   Loading content type [pages]
+0.0195s - [INFO ]     Executing plugin [seo]
+0.0195s - [INFO ]     Executing plugin [wordpress]
+0.0195s - [INFO ]   Loading content type [posts]
+0.0208s - [INFO ]     Executing plugin [seo]
+0.0208s - [INFO ]     Executing plugin [wordpress]
+0.0208s - [INFO ]   Generating single content pages for [pages]
+0.0233s - [INFO ]   Generating single content pages for [posts]
+0.0247s - [INFO ]   Generating index & paginated content for [posts]
+0.0255s - [INFO ]   Generating home content for [posts]
+0.0257s - [INFO ]   Generating taxonomy pages for [posts/category]
+0.0259s - [INFO ]   Generating taxonomy pages for [posts/tag]
+0.0263s - [INFO ]   Writing [robots.txt]
+0.0263s - [INFO ]   Writing [sitemap.xml]
+0.0263s - [INFO ] Total entries processed [2], HTML pages generated [6]
+0.0263s - [INFO ] Your website is now ready to view. You can run 'php crossroads serve' to view it.
+0.0263s - [INFO ] Finished executing [BUILD] command, total time taken 0.026s
