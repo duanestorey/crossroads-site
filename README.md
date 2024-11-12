@@ -1,2 +1,1 @@
-# Crossroads Static Site Generator
-
+# Crossroads Main Website
