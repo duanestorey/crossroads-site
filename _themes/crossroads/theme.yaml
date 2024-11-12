@@ -4,10 +4,9 @@ theme:
   author: "Duane Storey"
   assets:
     crossroads.css:
-      - bootstrap.min.css
+      - bulma.min.css
       - custom.scss
     crossroads.min.js:
-      - bootstrap.bundle.min.js
       - custom.js
   images:
     - favicon.ico

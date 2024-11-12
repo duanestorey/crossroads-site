@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="stylesheet" href="/assets/crossroads.css?v=06d4a84b34425a1c04a4c28e5776aac6">
+        <link rel="stylesheet" href="/assets/crossroads.css?v=7ec7633d59a3ef4e06d6eded82fc1484">
         <title>My New Static Generated Website - Crossroads Static Site Generator</title>
-        <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=06d4a84b34425a1c04a4c28e5776aac6">
+        <link rel="icon" type="image/x-icon" href="/assets/favicon.ico?v=7ec7633d59a3ef4e06d6eded82fc1484">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" media="print" onload="this.media='all'">
 
         <meta charset="utf-8">
@@ -29,16 +29,23 @@
 
     </head>
     <body class="posts posts-my-new-static-generated-website">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav class="navbar is-link" role="navigation" aria-label="main navigation">
             <div class="container">
-                <a class="navbar-brand" href="/">Crossroads Static Site Generator</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
-                        <a class="nav-item nav-link" href="/">Home</a>
-                        <a class="nav-item nav-link" href="/about.html">About</a>
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="/">Crossroads Static Site Generator</a>
+
+                    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                
+                <div id="navbarBasicExample" class="navbar-menu">
+                    <div class="navbar-start">
+                        <a class="navbar-item" href="/">Home</a>
+                        <a class="navbar-item" href="/about.html">About</a>
                     </div>
                 </div>
             </div>
@@ -84,7 +91,7 @@
                 All content copyright &copy; 2024<br>Generated using Crossroads SSG
             </div>
 
-            <script defer src="/assets/crossroads.min.js?v=06d4a84b34425a1c04a4c28e5776aac6"></script>
+            <script defer src="/assets/crossroads.min.js?v=7ec7633d59a3ef4e06d6eded82fc1484"></script>
         </footer>   
     </body>
 </html>

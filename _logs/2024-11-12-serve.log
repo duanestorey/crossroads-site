@@ -17,3 +17,68 @@
 0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [02:52:44]
 0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:65318
 0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+181.0109s - [INFO ] Shutting down web server
+181.0110s - [INFO ] Finished executing [SERVE] command, total time taken 181.011s
+
+0.0002s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0002s - [INFO ] Executing command [SERVE] on [2024-11-12] at [02:57:02]
+0.0002s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:49655
+0.0002s - [INFO ]   To shutdown the web server, press Ctrl-C
+258.6752s - [INFO ] Shutting down web server
+258.6764s - [INFO ] Finished executing [SERVE] command, total time taken 258.676s
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:01:24]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:50240
+0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+66.7750s - [INFO ] Shutting down web server
+66.7753s - [INFO ] Finished executing [SERVE] command, total time taken 66.775s
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:02:33]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:50460
+0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+78.9912s - [INFO ] Shutting down web server
+78.9915s - [INFO ] Finished executing [SERVE] command, total time taken 78.991s
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:03:53]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:50704
+0.0002s - [INFO ]   To shutdown the web server, press Ctrl-C
+50.4543s - [INFO ] Shutting down web server
+50.4558s - [INFO ] Finished executing [SERVE] command, total time taken 50.456s
+
+0.0000s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:04:45]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:50894
+0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+76.4506s - [INFO ] Shutting down web server
+76.4517s - [INFO ] Finished executing [SERVE] command, total time taken 76.452s
+
+0.0000s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:06:03]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:51215
+0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+212.7258s - [INFO ] Shutting down web server
+212.7268s - [INFO ] Finished executing [SERVE] command, total time taken 212.727s
+
+0.0000s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:09:38]
+0.0001s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:51695
+0.0001s - [INFO ]   To shutdown the web server, press Ctrl-C
+47.7931s - [INFO ] Shutting down web server
+47.7935s - [INFO ] Finished executing [SERVE] command, total time taken 47.793s
+
+0.0001s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0001s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:10:28]
+0.0002s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:51824
+0.0002s - [INFO ]   To shutdown the web server, press Ctrl-C
+16.4270s - [INFO ] Shutting down web server
+16.4272s - [INFO ] Finished executing [SERVE] command, total time taken 16.427s
+
+0.0002s - [INFO ] Log file active at [_logs/2024-11-12-serve.log]
+0.0002s - [INFO ] Executing command [SERVE] on [2024-11-12] at [03:11:05]
+0.0003s - [INFO ]   Web server started, please open your browser to http://127.0.0.1:51967
+0.0003s - [INFO ]   To shutdown the web server, press Ctrl-C
+1.2158s - [INFO ] Shutting down web server
+1.2159s - [INFO ] Finished executing [SERVE] command, total time taken 1.216s
